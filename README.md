@@ -26,9 +26,11 @@ Here are some ideas to get you started:
   <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="java" width="40" height="40"/> </a>
   </p>
 
-<div> <p> <p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Usain301&show_icons=true&locale=en&theme=onedark" alt="usain301" /></p>
-<p align=center>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=usain301" alt="usain301" /></p>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usain301&layout=compact&langs_count=10&theme=algolia"/></p></div>
+<h3>Github Stats</h3>
+<a href="https://github.com/usain301">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=usain301&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usain301&layout=compact&langs_count=10&theme=algolia"/>
+</a>
 
 
 <h3 align="center">Connect with me:</h3>
