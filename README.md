@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Usain301&show_icons=true&locale=en&theme=onedark" alt="usain301" /></p>
 <p align=center>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=usain301" alt="usain301" /></p>
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usain301&layout=compact&langs_count=10&theme=algolia"/>
 
 
 <h3 align="center">Connect with me:</h3>
