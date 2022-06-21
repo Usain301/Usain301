@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usain301" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hüseyin-çelik-6b8745210/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usain301" height="30" width="40" /></a>
-<a href="https://www.instagram.com/huseyinchelik/?hl=tr" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png" height="30" width="40" </a>
+<a href="https://www.instagram.com/huseyinchelik/?hl=tr" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1865894-1581910.png" height="30" width="40" </a>
 </p>
 
 
