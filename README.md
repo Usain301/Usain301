@@ -40,11 +40,14 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usain301" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/hüseyin-çelik-6b8745210/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usain301" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/usain301/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usain301" height="50" width="50" /></a>
 <a href="https://www.instagram.com/huseyinchelik/?hl=tr" target="_blank"><img align="center" src="https://camo.githubusercontent.com/c5c19c5a327e7adb30fe7f40b2a4e30433355e27dd48fb0393bc589412c25496/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f3132303070782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" height="50" width="50" </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=usain301&color=green)
+ 
+[![Linkedin: usain301](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usain301/)](https://www.linkedin.com/in/usain301/)
+[![GitHub usain301](https://img.shields.io/github/followers/usain301?label=follow&style=social)](https://github.com/usain301)
 
 
 
