@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=usain301&color=green)
  
-[![Linkedin: usain301](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usain301/)](https://www.linkedin.com/in/usain301/)
+[![Linkedin: usain301](https://img.shields.io/badge/-usain301-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usain301/)](https://www.linkedin.com/in/usain301/)
 [![GitHub usain301](https://img.shields.io/github/followers/usain301?label=follow&style=social)](https://github.com/usain301)
 
 
