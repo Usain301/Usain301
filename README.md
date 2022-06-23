@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="50" height="50"/> </a> 
- <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="" alt="Javascirpt" width="50" height="50"/> </a>
+ <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascirpt" width="50" height="50"/> </a>
 <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="java" width="50" height="50"/> </a>
   </p>
