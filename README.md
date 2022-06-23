@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=usain301&color=green)
 [![Linkedin: usain301](https://img.shields.io/badge/-usain301-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usain301/)](https://www.linkedin.com/in/usain301/)
 [![GitHub usain301](https://img.shields.io/github/followers/Usain301?label=follow&style=social)](https://github.com/usain301)
-![Gmail Usain301](https://img.shields.io/badge/seyin934@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Seyin934@gmail.com)](mailto:seyin934@gmail.com)
+![Gmail Usain301](https://img.shields.io/badge/seyin934@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Seyin934@gmail.com)(mailto:seyin934@gmail.com)]
 
 
 
