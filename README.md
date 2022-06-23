@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="flutter" width="40" height="40">
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Css" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascirpt" width="40" height="40"/> </a>
-<a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="java" width="40" height="40"/> </a>
+ <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="flutter" width="50" height="50">
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="50" height="50"/> </a> 
+ <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="" alt="Javascirpt" width="50" height="50"/> </a>
+<a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="java" width="50" height="50"/> </a>
   </p>
 
 <h3>Github Stats</h3>
