@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/github/watchers/usain301/YmgkFinalProje?logoColor=blue&style=social)
 ![](https://img.shields.io/github/forks/usain301/YmgkFinalProje?style=social)
 ![](https://img.shields.io/github/stars/usain301?logoColor=blue&style=social)
-[![GitHub usain301](https://img.shields.io/github/followers/Usain301?label=follow&style=social)](https://github.com/usain301)
+![][GitHub usain301](https://img.shields.io/github/followers/Usain301?label=follow&style=social)](https://github.com/usain301)
  <br>
  
  <h6> Rozets </h6>
