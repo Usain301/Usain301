@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![](https://img.shields.io/github/followers/usain301?label=usain301&logoColor=blue&style=social)
 ![](https://komarev.com/ghpvc/?username=usain301&color=green)
 [![Linkedin: usain301](https://img.shields.io/badge/-usain301-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usain301/)](https://www.linkedin.com/in/usain301/)
 ![Gmail Usain301](https://img.shields.io/badge/seyin934@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Seyin934@gmail.com)
@@ -57,6 +56,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/github/watchers/usain301/YmgkFinalProje?logoColor=blue&style=social)
 ![](https://img.shields.io/github/forks/usain301/YmgkFinalProje?style=social)
 ![](https://img.shields.io/github/stars/usain301?logoColor=blue&style=social)
+ ![](https://img.shields.io/github/followers/usain301?label=usain301&logoColor=blue&style=social)
+
 <br>
   <h6> **Rozets** </h6>
  <p>
