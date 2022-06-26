@@ -57,10 +57,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/github/watchers/usain301/YmgkFinalProje?logoColor=blue&style=social)
 ![](https://img.shields.io/github/forks/usain301/YmgkFinalProje?style=social)
 ![](https://img.shields.io/github/stars/usain301?logoColor=blue&style=social)
-
- <br>
- 
- <h6> Rozets </h6>
+<br>
+  <h6> **Rozets** </h6>
  <p>
  <img src="https://img.shields.io/badge/software-enginering-blue">
  <img src="https://img.shields.io/badge/mobile-developer-blue">
