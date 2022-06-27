@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="flutter" width="50" height="50">
+ <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" alt="flutter" width="50" height="50">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="50" height="50"/> </a> 
