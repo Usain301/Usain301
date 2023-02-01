@@ -2,7 +2,7 @@
 
 <!--
 **Usain301/Usain301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</p>
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">A passionat WEB and mobile developer from Turkey</h3>
 
