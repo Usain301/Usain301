@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Şarkı Adı](https://open.spotify.com/track/2SnNaoNhMjC1WRMTWD8qTX)
+<audio controls>
+    <source src="https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7?si=8526e95306e442bb">
+ </audio>
 
 <!--
 **Usain301/Usain301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
