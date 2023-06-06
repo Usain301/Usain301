@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media4.giphy.com/media/WLsGwZeTgWru0/giphy.gif" style="width:1200px;height:350px;" alt="Windows Firewall">
+<img src="https://media4.giphy.com/media/WLsGwZeTgWru0/giphy.gif" style="width:800px;height:350px;" alt="Windows Firewall">
 
 <!--
 **Usain301/Usain301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
