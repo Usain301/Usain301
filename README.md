@@ -73,8 +73,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascipt-Node.js-blue">
 
 </p>
-<audio controls autoplay>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+<audio src="/music/good_enough.mp3" controls>
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
 </audio>
