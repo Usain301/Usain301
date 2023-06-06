@@ -1,7 +1,7 @@
 ### Hi there 👋
-<audio controls>
-    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3">
- </audio>
+<audio controls="" autoplay="" loop="">
+<source src="ses.mp3" type="audio/mpeg">
+</audio>
 
 <!--
 **Usain301/Usain301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,9 +49,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <br>
-<audio controls>
-    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3">
- </audio>
+
     <br>
     
 ![](https://komarev.com/ghpvc/?username=usain301&color=green)
