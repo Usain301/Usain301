@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 </p>
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<h3 align="center">A passionat WEB and mobile developer from Turkey</h3>
+<h3 align="center">- and mobile developer from Poland</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
